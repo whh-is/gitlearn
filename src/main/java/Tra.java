@@ -4,5 +4,6 @@ public class Tra {
         System.out.println("aaa");
         System.out.println("bbb");
         System.out.println("reb1");
+        System.out.println("11");
     }
 }
